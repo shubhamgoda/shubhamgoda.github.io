@@ -1,3 +1,1 @@
 # shubhamgoda.github.io
-
-yes
