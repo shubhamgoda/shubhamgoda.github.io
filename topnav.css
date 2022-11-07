@@ -40,4 +40,6 @@
 
 body {
   background-image: url("galaxy.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
