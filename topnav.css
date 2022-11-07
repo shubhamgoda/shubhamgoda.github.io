@@ -37,3 +37,7 @@
   top: 0;
   right: 0;
 }
+
+body {
+  background-image: url("galaxy.jpeg");
+}
