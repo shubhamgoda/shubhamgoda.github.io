@@ -5,9 +5,10 @@
   top: 0;
   left: 0;
 
-  background-color: Black;
+  background-color: transparent;
 
-  font-family: Arial, sans-serif;
+  font-family: sans-serif;
+  font-weight: bold;
   font-size: 15px;
 }
 
@@ -35,7 +36,26 @@
 #about {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 5px;
+}
+
+.text {
+  position: absolute;
+  font-family: sans-serif;
+  color: White;
+}
+
+#title {
+  top: 35%;
+  left: 30%;
+  font-weight: bold;
+  font-size: 64px;
+}
+
+#subtitle {
+  top: 45%;
+  left: 10%;
+  font-size: 36px;
 }
 
 body {
