@@ -33,6 +33,21 @@
 #story-text {
   top: 25%;
   left: 52%;
+  right: 6%;
+  font-size: 14px;
+}
+
+#present {
+  top: 40%;
+  left: 52%;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#present-text {
+  top: 45%;
+  left: 52%;
+  right: 6%;
   font-size: 14px;
 }
 
