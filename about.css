@@ -30,6 +30,12 @@
   font-size: 20px;
 }
 
+#story-text {
+  top: 25%;
+  left: 52%;
+  font-size: 14px;
+}
+
 #image {
   position: absolute;
   top: 25%;
