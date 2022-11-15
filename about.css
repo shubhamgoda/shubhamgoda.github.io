@@ -1,0 +1,37 @@
+.text {
+  position: absolute;
+  font-family: sans-serif;
+  color: White;
+}
+
+.wrapper {
+  position: absolute;
+  top: 75%;
+  left: 27%;
+}
+
+.text {
+  position: absolute;
+  font-family: sans-serif;
+  color: black;
+}
+
+#title {
+  top: 15%;
+  left: 25%;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+#story {
+  top: 20%;
+  left: 52%;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#image {
+  position: absolute;
+  top: 25%;
+  left: 17%;
+}
